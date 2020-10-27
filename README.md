@@ -22,14 +22,5 @@ The presentation and the Notebooks may be downloaded [here](https://github.com/c
 
 The following are links to the Notebooks which will open in Google Colab. To use these links, you will need to log into a Google account. Once you click the link, you may see a page saying "Connected apps". If Google Colaboratory is in the list, click it to open the notebook. If it's not, click "Connect more apps...", search for "Colab" and connect the app before selecting it.
 
-* [What is Coding?](<https://colab.research.google.com/github/coolernato/Introduction-to-Python/blob/master/What is Coding.ipynb>)
-* [What is Python?](<https://colab.research.google.com/github/coolernato/Introduction-to-Python/blob/master/What is Python.ipynb>)
-* [Using Jupyter Notebooks](<https://colab.research.google.com/github/coolernato/Introduction-to-Python/blob/master/Using Jupyter Notebooks.ipynb>)
-* [My First Program](<https://colab.research.google.com/github/coolernato/Introduction-to-Python/blob/master/My First Program.ipynb>)
-* [Variables and Assignment](<https://colab.research.google.com/github/coolernato/Introduction-to-Python/blob/master/Variables and Assignment.ipynb>)
-* [Conditionals](<https://colab.research.google.com/github/coolernato/Introduction-to-Python/blob/master/Conditionals.ipynb>)
-* [Loops](<https://colab.research.google.com/github/coolernato/Introduction-to-Python/blob/master/Loops.ipynb>)
-* [Functions](<https://colab.research.google.com/github/coolernato/Introduction-to-Python/blob/master/Functions.ipynb>)
-* [Tuples](<https://colab.research.google.com/github/coolernato/Introduction-to-Python/blob/master/Tuples.ipynb>)
-* [Importing Modules](<https://colab.research.google.com/github/coolernato/Introduction-to-Python/blob/master/Importing Modules.ipynb>)
-* [Errors and Exceptions](<https://colab.research.google.com/github/coolernato/Introduction-to-Python/blob/master/Errors and Exceptions.ipynb>)
+* [Types and Objects](<https://colab.research.google.com/github/coolernato/Object-Oriented-Python/blob/master/Types and Objects.ipynb>)
+* [My First Class](<https://colab.research.google.com/github/coolernato/Object-Oriented-Python/blob/master/My First Class.ipynb>)
