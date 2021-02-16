@@ -1,2 +1,4 @@
 ~$*
 *.svg
+/.vscode
+/.ipynb_checkpoints
