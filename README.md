@@ -39,6 +39,8 @@ The following are links to the Notebooks which will open in Google Colab. To use
 * [Objects in Objects](<https://colab.research.google.com/github/coolernato/Object-Oriented-Python/blob/master/Objects in Objects.ipynb>)
 * [Projects](<https://colab.research.google.com/github/coolernato/Object-Oriented-Python/blob/master/Projects.ipynb>)
 
+  You do not need to look at these notebooks before the course unless you want to.
+
 ## Further Reading
 
 * The Maths department provides a [great object-oriented Python guide](https://object-oriented-python.github.io/) which includes discussion of how to apply the principles introduced here to more substantial problems.
