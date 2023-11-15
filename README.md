@@ -30,7 +30,7 @@ The following are links to the Notebooks which will open in Google Colab. To use
 
 * [Types and Objects](<https://colab.research.google.com/github/coolernato/Object-Oriented-Python/blob/master/Types and Objects.ipynb>)
 * [My First Class](<https://colab.research.google.com/github/coolernato/Object-Oriented-Python/blob/master/My First Class.ipynb>)
-* [Class Members in Detail](<https://colab.research.google.com/github/coolernato/Object-Oriented-Python/blob/master/Class Members in Detail.ipynb>)
+* [Attributes](<https://colab.research.google.com/github/coolernato/Object-Oriented-Python/blob/master/Attributes.ipynb>)
 * [Magic Methods](<https://colab.research.google.com/github/coolernato/Object-Oriented-Python/blob/master/Magic Methods.ipynb>)
 * [Properties](<https://colab.research.google.com/github/coolernato/Object-Oriented-Python/blob/master/Properties.ipynb>)
 * [Inheritance](<https://colab.research.google.com/github/coolernato/Object-Oriented-Python/blob/master/Inheritance.ipynb>)
