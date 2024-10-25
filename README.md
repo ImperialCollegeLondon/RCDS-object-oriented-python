@@ -45,7 +45,7 @@ The following are links to the Notebooks which will open in Google Colab. To use
 ## Further Reading
 
 * The Maths department provides a [great object-oriented Python guide](https://object-oriented-python.github.io/) which includes discussion of how to apply the principles introduced here to more substantial problems.
-* 
+
 ## Post-Course Follow-Up: ReCoDE Exemplar
 The RCDS team has curated a collection of annotated [exemplar projects](https://imperialcollegelondon.github.io/ReCoDE-home/exemplars/) known as [ReCoDE](https://imperialcollegelondon.github.io/ReCoDE-home/) which demonstrate core research computing and data science principles applied to real problems. Each exemplar is a real project created by an Imperial student based on their research. Each exemplar is accompanied by detailed descriptions of how they work, and the design decisions taken when constructing the code. There are two Fortran exemplars:
 
